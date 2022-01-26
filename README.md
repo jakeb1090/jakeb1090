@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 💬 **Ask me about:** fixed-gear cycling || playing guitar with a looper
 
-- 📫 **How to reach me:** <a href="http://www.linkedin.com/in/jake1090>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+- 📫 **How to reach me:** ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 - ⚡ **Fun fact:** I was a Navy helicopter mechanic
 
