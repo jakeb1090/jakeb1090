@@ -17,15 +17,3 @@
 **Dev tools**
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-
-<br>
-
-
-- 🌱 **I’m currently exploring:** <br>&nbsp;&nbsp;&nbsp; applying my React skill to other  platforms like Salesforce (Apex) and Shopify (Liquid)
-
-- 💬 **Ask me about:** <br>&nbsp;&nbsp;&nbsp;fixed-gear cycling || playing guitar with a looper
-
-- 📫 **How to reach me:** <br>&nbsp;&nbsp;&nbsp;![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-- ⚡ **Fun fact:** <br>&nbsp;&nbsp;&nbsp;I was a Navy helicopter mechanic
-
