@@ -12,4 +12,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-![img](https://raw.githubusercontent.com/jakeb1090/hr-sfo138-databases/master/server/spec/Screen%20Shot%202022-02-03%20at%209.13.57%20PM.jpg?token=GHSAT0AAAAAABLG2GK5TQKSCVZLHKKMPE2CYQF4PLQ =100x)
+![img](https://raw.githubusercontent.com/jakeb1090/hr-sfo138-databases/master/server/spec/Screen%20Shot%202022-02-03%20at%209.13.57%20PM.jpg?token=GHSAT0AAAAAABLG2GK5TQKSCVZLHKKMPE2CYQF4PLQ | width=100)
