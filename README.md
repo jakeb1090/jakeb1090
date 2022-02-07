@@ -6,7 +6,7 @@
 
 <a href="#"><img src="https://raw.githubusercontent.com/jakeb1090/hr-sfo138-databases/master/server/spec/Screen%20Shot%202022-02-03%20at%209.13.41%20PM.jpg?token=GHSAT0AAAAAABLG2GK42IJAPDTI2Y2P5GUSYQF4VCA" width="400px" height="auto"></a>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <!-- **Front-end**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
