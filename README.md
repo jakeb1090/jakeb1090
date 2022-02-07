@@ -1,9 +1,9 @@
 
 <br><br>
 
-[![](https://raw.githubusercontent.com/jakeb1090/hr-sfo138-databases/master/server/spec/Screen%20Shot%202022-02-03%20at%209.13.41%20PM.jpg?token=GHSAT0AAAAAABLG2GK42IJAPDTI2Y2P5GUSYQF4VCA)](#)
+<!-- [![](https://raw.githubusercontent.com/jakeb1090/hr-sfo138-databases/master/server/spec/Screen%20Shot%202022-02-03%20at%209.13.41%20PM.jpg?token=GHSAT0AAAAAABLG2GK42IJAPDTI2Y2P5GUSYQF4VCA)](#) -->
 
-<img src="https://raw.githubusercontent.com/jakeb1090/hr-sfo138-databases/master/server/spec/Screen%20Shot%202022-02-03%20at%209.13.41%20PM.jpg?token=GHSAT0AAAAAABLG2GK42IJAPDTI2Y2P5GUSYQF4VCA" width="200px" height="auto">
+<img src="https://raw.githubusercontent.com/jakeb1090/hr-sfo138-databases/master/server/spec/Screen%20Shot%202022-02-03%20at%209.13.41%20PM.jpg?token=GHSAT0AAAAAABLG2GK42IJAPDTI2Y2P5GUSYQF4VCA" width="400px" height="auto">
 
 [![](http://example.com/path/image)](#)
 
